@@ -1,20 +1,20 @@
 {
-  "name": "styled-bootstrap",
+  "name": "styled-twbs",
   "version": "0.0.1",
-  "description": "styled-bootstrap",
+  "description": "styled-twbs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amurdock/styled-bootstrap.git"
+    "url": "git+https://github.com/amurdock/styled-twbs.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amurdock/styled-bootstrap/issues"
+    "url": "https://github.com/amurdock/styled-twbs/issues"
   },
-  "homepage": "https://github.com/amurdock/styled-bootstrap#readme"
+  "homepage": "https://github.com/amurdock/styled-twbs#readme"
 }
