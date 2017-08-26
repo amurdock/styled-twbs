@@ -363,7 +363,7 @@ File.prototype = {
         var nodeDelimiter = this.ast.content[i+1];
 
         // Keep going unless node is an @rule
-        if (!node.is('atrules')) continue;
+        if (!node.is('atrule')) continue;
 
         // Attempt to match an @import statement string:
         var match = node.toString().match(/@import\s+['"]([^'"]+)['"]/);

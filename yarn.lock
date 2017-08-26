@@ -999,6 +999,12 @@ debug@^2.2.0, debug@^2.6.8:
   dependencies:
     ms "2.0.0"
 
+debug@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-3.0.1.tgz#0564c612b521dc92d9f2988f0549e34f9c98db64"
+  dependencies:
+    ms "2.0.0"
+
 deep-extend@~0.4.0:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.4.2.tgz#48b699c27e334bf89f10892be432f6e4c7d34a7f"
@@ -1239,9 +1245,9 @@ globals@^9.18.0:
   version "9.18.0"
   resolved "https://registry.yarnpkg.com/globals/-/globals-9.18.0.tgz#aa3896b3e69b487f17e31ed2143d69a8e30c2d8a"
 
-gonzales-pe@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/gonzales-pe/-/gonzales-pe-4.0.3.tgz#36148e18e267184fbfdc929af28f29ad9fbf9746"
+gonzales-pe@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/gonzales-pe/-/gonzales-pe-4.1.1.tgz#3a280c1c01b06515784878038dedb900a6585bb2"
   dependencies:
     minimist "1.1.x"
 
