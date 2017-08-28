@@ -47,5 +47,9 @@
     "javascript-stringify": "^1.6.0",
     "npm-run-all": "^4.0.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "color": "^2.0.0",
+    "react": "^15.6.1",
+    "styled-components": "^2.1.2"
+  }
 }
