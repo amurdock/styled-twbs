@@ -8,7 +8,7 @@ import {
   mixinBoxShadow,
   mixinButtonVariant,
   mixinButtonOutlineVariant
-} from './mixins';
+} from './mixins/index.js';
 
 const attributes = [
   'primary',
