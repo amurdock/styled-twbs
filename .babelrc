@@ -1,0 +1,19 @@
+{
+  "env": {
+    "es6": {
+      "presets": [
+        "react",
+        [
+          "es2015",
+          {
+            "modules": false
+          }
+        ],
+        "stage-0"
+      ],
+      "plugins": [
+        "external-helpers"
+      ]
+    }
+  }
+}
